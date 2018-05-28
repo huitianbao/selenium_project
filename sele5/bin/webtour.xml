@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<test name="Test">
+		<parameter name="seatPref1" value="Aisle" />
+		<parameter name="seatPref2" value="Window" />
+		<parameter name="seatPref3" value="None" />
+		<classes>
+			<class name="testng.NewTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
